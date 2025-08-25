@@ -1,0 +1,10 @@
+sounddevice
+soundfile
+openai
+pynput
+google-cloud-speech
+google-cloud-texttospeech
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
